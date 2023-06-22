@@ -10,5 +10,7 @@ Over the course of this project, you will:
 * Part 4: Apply hypothesis testing to explore what makes a movie successful.
 * Part 5 (Optional): Produce a Linear Regression model to predict movie performance.
 
+<img src = 'blue_long_2-9665a76b1ae401a510ec1e0ca40ddcb3b0cfe45f1d51b77a308fea0845885648.svg'>
+
 
  
