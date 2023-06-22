@@ -64,6 +64,8 @@ Tukey's suggest that we REJECT the null hypothesis on the following pairs:
 2. PG-13 and R
 This means that these pairs have a significant effect on movie revenue. And all the rest of the pair DOES NOT have much effects on the revenue.
 
+<img src = 'hypothesis graph revenue of movies.png'>
+
 2. Do movies that are over 2.5 hours (150 minutes) long earn more revenue than movies that are 1.5 hours(90 minutes) long (or less)?
 
 Hypothesis: <br>
@@ -72,6 +74,8 @@ Hypothesis: <br>
 
 Outcome:  <br>
 Our Welch's T-Test returned > 0.05. We FAILED TO REJECT the null hypothesis. This means that the Runtime does NOT have much effect on revenue.
+
+<img src = 'hyphotesis graph revenue bt time.png'>
 
 3. Are some genres higher rated than others?
 
@@ -82,3 +86,5 @@ Hypothesis: <br>
 Outcome: <br>
 - The Tukey's Pairwise returned a total of 228 results out of 24 genres that we have.
 - We have number of pairs that suggest that we need to REJECT Null Hypothesis such as Action vs Adventure, Adult vs Talk Show, Animation vs Family and many more. Many of the sample also shows that we have FAILED to REJECT the Null Hypothesis and Support the Alternative Hypothesis.
+
+<img src = 'Hypothesis graph movie genre.png'>
